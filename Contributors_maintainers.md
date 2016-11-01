@@ -2,12 +2,6 @@
 
 ## CyVerse Maintainer: 
 
-**Name:**
-**Email:**
+**Name:Ramona Walls**
 
-## We would like to thank the following contributors
-
-|Name|Contact Info|Institution|Notes|
-|----|------------|-----------|-----|
-|||||
-|||||
+**Email:rwalls_at_cyverse_dot_org**
