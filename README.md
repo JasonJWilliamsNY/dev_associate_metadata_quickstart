@@ -8,8 +8,7 @@ This quickstart uses the Discovery Environment.
 
 |Item|Description|Notes|
 |----|-----------|-----|
-|tutorial_template.md|Edit this template to create a tutorial|documents written in markdown will need to be covered to restructured text|
-|quickstart_template.md|Edit this template to create a quickstart|documents written in markdown will need to be covered to restructured text|
+|associate_metadata.md|Text for the quickstart|documents written in markdown will need to be covered to restructured text|
 |/img (folder)|Place images for your tutorials here|CyVerse logos and other useful images are already here| 
 |/slides (folder)|Place slides associated with your tutorial here|version controlled files preferred, PPT acceptable|
 |/workflows (folder)|Version-controlled workflows built with yED||
