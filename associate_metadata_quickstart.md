@@ -50,8 +50,8 @@ The content of this quickstart was pulled from https://wiki.cyverse.org/wiki/dis
 First we will add a single piece of metadata called an AVU, then we will add several standard pieces of metadata using a template, to see how templates can include AVUs that are already entered. 
 
 .. Note::
-* A single piece of metadata, or an AVU, is made up of attributes, values, and units. An attribute is a changeable property or characteristic of the file or folder you have selected that can be set to a value. For example, length is an attribute of a file, while 7 is its value, and cms is the unit.  The metadata you enter stays with the file when you share the file or folder with others.
-* Just like editing any file or folder, you must either have write or own permission to it in order to add, edit, or delete its metadata. You can view, copy, or save the metadata for any file or folder that has been shared with you, regardless of permission level. Another form of metadata that is just for your use is the ability to add tags to a file or folder in the DE.
+	* A single piece of metadata, or an AVU, is made up of attributes, values, and units. An attribute is a changeable property or characteristic of the file or folder you have selected that can be set to a value. For example, length is an attribute of a file, while 7 is its value, and cms is the unit.  The metadata you enter stays with the file when you share the file or folder with others.
+	* Just like editing any file or folder, you must either have write or own permission to it in order to add, edit, or delete its metadata. You can view, copy, or save the metadata for any file or folder that has been shared with you, regardless of permission level. Another form of metadata that is just for your use is the ability to add tags to a file or folder in the DE.
 
 **Add a single AVU to a file or folder**
 
@@ -64,8 +64,9 @@ First we will add a single piece of metadata called an AVU, then we will add sev
 * Double-click in the New Attribute field and enter "Title" as the attribute for the data item.
 * Tab to the New Value field and enter "The Haunting" as the value.
 * Tab to the Unit field and delete the default text as there is no unit for this attribute.
+
 .. Hint::
-For the next section of the quickstart to work properly, you must enter "Title" with a capital T as the attribute.
+	For the next section of the quickstart to work properly, you must enter "Title" with a capital T as the attribute.
 
 4. Click Save to save the AVU.
 
@@ -102,7 +103,3 @@ To learn more about working with metadata in the DE, including copying metadata 
 
 **Fix this tutorial on GitHub:** [GitHub](Link_to_gh_readme)
 **Send a note to support:** [Tutorials@CyVerse.org](mailto:Tutorials@CyVerse.org)
-
-
-SAMPLE DIRECTIVES (DELETE UNSUED ONES)
---------------------------------------
