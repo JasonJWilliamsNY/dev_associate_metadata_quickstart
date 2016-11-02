@@ -85,8 +85,7 @@ First we will add a single piece of metadata called an AVU, then we will add sev
 -  Tab to the Unit field and delete the default text as there is no unit
    for this attribute.
 
-.. Hint:: For the next section of the quickstart to work properly, you
-must enter "Title" with a capital T as the attribute.
+.. Hint:: For the next section of the quickstart to work properly, you must enter "Title" with a capital T as the attribute.
 
 4. Click Save to save the AVU.
 
