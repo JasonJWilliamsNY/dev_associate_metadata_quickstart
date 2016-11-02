@@ -54,8 +54,11 @@ First we will add a single piece of metadata called an AVU, then we will add sev
 * Just like editing any file or folder, you must either have write or own permission to it in order to add, edit, or delete its metadata. You can view, copy, or save the metadata for any file or folder that has been shared with you, regardless of permission level. Another form of metadata that is just for your use is the ability to add tags to a file or folder in the DE.
 
 **Add a single AVU to a file or folder**
+
 1. Open the DE then open the Data window and search for the file or folder you own and to which you want to add or edit metadata.
+
 2. Click the metadata icon to the right of the file or folder name (or click the checkbox next to the item, click the Metadata menu, and then click Edit/View Metadata).
+
 3. To add metadata to the data item:
 * Click Add (green plus sign)
 * Double-click in the New Attribute field and enter "Title" as the attribute for the data item.
@@ -67,15 +70,20 @@ For the next section of the quickstart to work properly, you must enter "Title" 
 4. Click Save to save the AVU.
 
 **Add a metadata template to the same file or folder**
+
 1. Using the same file or folder from above, click the metadata icon to the right of the file or folder name (or click the checkbox next to the item, click the Metadata menu, and then click Edit/View Metadata).
+
 2. In the User Metadata window, click Select Template, select the "Dublin Core", and click OK. 
+
 3. The template window opens, and you will see a list of AVUs. The first AVU is Title, and you will see the value you entered for Title already filled in.
+
 4. Double click on some additional AVUs to enter some additional values.
+
 5. When done, click OK. The template's metadata attributes are added to the User Metadata dialog.
 
 ### Summary
 
-You now know the basics of adding metadata to objects (files and folders) in the CyVerse Data Store.
+You now know the basics of adding metadata to objects (files and folders) in the CyVerse Data Store, using tools available in the Discovery Environment.
 
 **Next Steps:**
 
@@ -91,7 +99,6 @@ To learn more about working with metadata in the DE, including copying metadata 
 **Post your question to the user forum:** [Ask CyVerse](http://ask.iplantcollaborative.org/questions/)
 
 ### Fix or improve this tutorial 
-
 
 **Fix this tutorial on GitHub:** [GitHub](Link_to_gh_readme)
 **Send a note to support:** [Tutorials@CyVerse.org](mailto:Tutorials@CyVerse.org)
