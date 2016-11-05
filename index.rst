@@ -1,8 +1,14 @@
-\|CyVerse logo\| .. \|CyVerse logo\| image:: ./img/cyverse\_rgb.png
-:width: 500 :height: 100 #Associate metadata to a file in the DE
+|CyVerse logo| 
+
+.. |CyVerse logo| image:: ./img/cyverse_rgb.png
+	:width: 500 
+	:height: 100 
+
+Associate metadata to a file in the DE
+--------------------------------------
 
 Goal
-----
+~~~~
 
 .. raw:: html
 
