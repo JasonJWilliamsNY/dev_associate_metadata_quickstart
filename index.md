@@ -1,37 +1,32 @@
+```eval_rst
 |CyVerse logo|
+
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
     :height: 100
-#Associate metadata to a file in the DE
+```
+
+# Associate metadata to a file in the DE
 
 ## Goal
 
-<!---
-Avoid covering upstream and downstream steps that are not explicitly and necessarily part of the tutorial - write or link to separate quick starts/tutorials for those parts
---->
-
-<!---
-A few sentences (50 words or less) describing the ultimate goal of the steps in this tutorial
---->
 This Quick Start will show you how to add metadata to a single file or folder in the Discovery Environment using your own attributes or a pre-built template.
-## Prerequisites 
+
+## Prerequisites
 
 
 ### Downloads, access, and services
 
 *In order to complete this tutorial you will need access to the following services/software*
 
-|Prerequisite|Preparation/Notes|Link/Download|
-|------------|-----------------|-------------|
-|CyVerse account|You will need a CyVerse account to complete this exercise|[Register](https://user.cyverse.org/)
+* **CyVerse account** - You will need a CyVerse account to complete this
+  exercise [Register](https://user.cyverse.org/)
 
 ### Platform(s)
 
 *We will use the following CyVerse platform(s):*
 
-|Platform|Interface|Link|Platform Documentation|
-|--------|---------|----|----------------------|
-|Discovery Environment|Web/Point-and-click|[Discovery Environment](https://de.iplantcollaborative.org)|[Manual](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents)|
+* [Discovery Environment](https://de.iplantcollaborative.org) ([Manual](https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents))
 
 ### Input and example data
 
@@ -43,15 +38,13 @@ You need to have at least one file or folder in your home folder in CyVerse and 
 
 ## Get Started
 
-<!---
-The content of this quickstart was pulled from https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE.
---->
-
 First we will add a single piece of metadata called an AVU, then we will add several standard pieces of metadata using a template, to see how templates can include AVUs that are already entered. 
 
+```eval_rst
 .. Note::
 	* A single piece of metadata, or an AVU, is made up of attributes, values, and units. An attribute is a changeable property or characteristic of the file or folder you have selected that can be set to a value. For example, length is an attribute of a file, while 7 is its value, and cms is the unit.  The metadata you enter stays with the file when you share the file or folder with others.
 	* Just like editing any file or folder, you must either have write or own permission to it in order to add, edit, or delete its metadata. You can view, copy, or save the metadata for any file or folder that has been shared with you, regardless of permission level. Another form of metadata that is just for your use is the ability to add tags to a file or folder in the DE.
+```
 
 **Add a single AVU to a file or folder**
 
@@ -65,8 +58,10 @@ First we will add a single piece of metadata called an AVU, then we will add sev
 * Tab to the New Value field and enter "The Haunting" as the value.
 * Tab to the Unit field and delete the default text as there is no unit for this attribute.
 
+```eval_rst
 .. Hint::
-	For the next section of the quickstart to work properly, you must enter "Title" with a capital T as the attribute.
+    For the next section of the quickstart to work properly, you must enter "Title" with a capital T as the attribute.
+```
 
 4. Click Save to save the AVU.
 
@@ -91,9 +86,6 @@ You now know the basics of adding metadata to objects (files and folders) in the
 ---
 ## More help/additional information
 
-<!---
-Short description and links to any reading materials
---->
 To learn more about working with metadata in the DE, including copying metadata from one object to another and adding metadata to multiple objects at once, see [Using metadata in the DE](https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE).
 
 **Search for an answer:** [CyVerse Learning Center](http://www.cyverse.org/learning-center) or [Wiki](https://wiki.cyverse.org/wiki/dashboard.action)
