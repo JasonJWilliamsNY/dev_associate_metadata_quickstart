@@ -1,8 +1,8 @@
-|CyVerse logo| 
+|CyVerse logo|
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
-	:width: 500 
-	:height: 100 
+	:width: 500
+	:height: 100
 
 Associate metadata to a file in the DE
 --------------------------------------
@@ -10,19 +10,15 @@ Associate metadata to a file in the DE
 Goal
 ~~~~
 
-.. raw:: html
-
-   <!---
+..
    Avoid covering upstream and downstream steps that are not explicitly and necessarily part of the tutorial - write or link to separate quick starts/tutorials for those parts
-   --->
-
-.. raw:: html
-
-   <!---
+   
    A few sentences (50 words or less) describing the ultimate goal of the steps in this tutorial
-   --->
 
-This Quick Start will show you how to add metadata to a single file or folder in the Discovery Environment using your own attributes or a pre-built template. ## Prerequisites
+This Quick Start will show you how to add metadata to a single file or folder in the Discovery Environment using your own attributes or a pre-built template.
+
+Prerequisites
+-------------
 
 Downloads, access, and services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,11 +39,18 @@ Platform(s)
 
 *We will use the following CyVerse platform(s):*
 
-+-------------------------+-----------------------+------------------------------------------------------------------+---------------------------------------------------------------------------------------------+
-| Platform                | Interface             | Link                                                             | Platform Documentation                                                                      |
-+=========================+=======================+==================================================================+=============================================================================================+
-| Discovery Environment   | Web/Point-and-click   | `Discovery Environment <https://de.iplantcollaborative.org>`__   | `Manual <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents>`__   |
-+-------------------------+-----------------------+------------------------------------------------------------------+---------------------------------------------------------------------------------------------+
+.. list-table::
+    :header-rows: 1
+
+    * - Platform
+      - Interface
+      - Link
+      - Platform Documentation
+    * - Discovery Environment
+      - Web/Point-and-click
+      - `Discovery Environment <https://de.iplantcollaborative.org>`_
+      - `Manual <https://pods.iplantcollaborative.org/wiki/display/DEmanual/Table+of+Contents>`_
+
 
 Input and example data
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -61,15 +64,12 @@ You need to have at least one file or folder in your home folder in CyVerse and 
 Get Started
 -----------
 
-.. raw:: html
-
-   <!---
+..
    The content of this quickstart was pulled from https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE.
-   --->
 
 First we will add a single piece of metadata called an AVU, then we will add several standard pieces of metadata using a template, to see how templates can include AVUs that are already entered.
 
-.. Note:: 
+.. Note::
 	* A single piece of metadata, or an AVU, is made up of attributes, values, and units. An attribute is a changeable property or characteristic of the file or folder you have selected that can be set to a value. For example, length is an attribute of a file, while 7 is its value, and cms is the unit. The metadata you enter stays with the file when you share the file or folder with others.
 	* Just like editing any file or folder, you must either have write or own permission to it in order to add, edit, or delete its metadata. You can view, copy, or save the metadata for any file or folder that has been shared with you, regardless of permission level. Another form of metadata that is just for your use is the ability to add tags to a file or folder in the DE.
 
@@ -128,11 +128,8 @@ Discovery Environment.
 More help/additional information
 --------------------------------
 
-.. raw:: html
-
-   <!---
+..
    Short description and links to any reading materials
-   --->
 
 To learn more about working with metadata in the DE, including copying
 metadata from one object to another and adding metadata to multiple
